@@ -23,8 +23,6 @@
 Worked as a salesman in an electronics store, decided to change my job and finished tester course from Software-Testing, got a job at a local small project organization as a software tester. Also worked as a system administrator and a help desk assistant, wrote unit tests in C#.
 Then I was promoted to the position of WPF frontend developer, because the previous sole developer left. Worked with new languages for several months and quietly began to finalize the portal program for designers together with the backend developer. I also write auxiliary programs and small scripts.
 
-Translated with www.DeepL.com/Translator (free version)
-
 ---
 
 ### Skills and Proficiency
