@@ -14,7 +14,7 @@
 
 **Telegram** [@srjsolo](https://t.me/srjsolo)
 
-[Sergey Solovyev | LinkedIn](https://www.linkedin.com/in/sergey-solovyev-239014148/)
+[LinkedIn](https://www.linkedin.com/in/sergey-solovyev-239014148/)
 
 ---
 
@@ -57,7 +57,7 @@ function betterThanAverage(classPoints, yourPoints) {
 
 - Vologda State Technical University
   - Faculty of ecology - Rescue in emergency situations
-git
+
 ### Courses
 
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
@@ -69,5 +69,6 @@ git
 ### Languages
 
 - English \- advanced/proficient (according to the online test at [www.efset.org](https://www.efset.org/quick-check))
-  Мне сложно разговаривать на английском языке, но я многое понимаю и могу читать литературу. Так же я часто пользуюсь google translate. Занимаюсь в DuoLingo.
+  ![EFset Score](/images/efset-english-level.png)
+  I have trouble speaking English, but I understand a lot and can read literature. I also often use google translate. I study at DuoLingo.
 - Russian \- Native
