@@ -68,7 +68,7 @@ function betterThanAverage(classPoints, yourPoints) {
 
 ### Languages
 
-- English \-  Intermediate/Upper-intermediate (according to the online test at [www.efset.org](https://www.efset.org/quick-check))
+- English \-  C1/C2 (according to the online test at [www.efset.org](https://www.efset.org/quick-check))
   ![EFset Score](/images/efset-english-level.png)
   I have trouble speaking English, but I understand a lot and can read literature. I also often use google translate. I study at DuoLingo.
 - Russian \- Native
