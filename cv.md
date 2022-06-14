@@ -32,7 +32,7 @@ Then I was promoted to the position of WPF frontend developer, because the previ
 - Git, GitHub
 - Mercurial, BitBucket, TortoiseHG
 - VS Code, Visual Studio
-- C#, WPF
+- C#, WPF, Prism
 
 ---
 
@@ -67,6 +67,6 @@ function betterThanAverage(classPoints, yourPoints) {
 ### Languages
 
 - English \-  C1/C2 (according to the online test at [www.efset.org](https://www.efset.org/quick-check))<br>
-  ![EFset Score](/images/efset-english-level.png)<br>
+  ![EFset Score](./assets/img/efset-english-level.png)<br>
   I have trouble speaking English, but I understand a lot and can read literature. I also often use google translate. I study at DuoLingo.
 - Russian \- Native

@@ -1,1 +1,1 @@
-<https://savemysoul382.github.io/rsschool-cv/cv>
+<https://savemysoul382.github.io/rsschool-cv/>
