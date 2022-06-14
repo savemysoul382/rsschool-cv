@@ -61,6 +61,47 @@ body {
 }
 /*   #endregion header   */
 
+.main-content .container {
+	display: flex;
+}
+
+/*   #region main   */
+
+.main {
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+	padding: 40px;
+}
+
+.main-container .section {
+	display: flex;
+	flex-direction: column;
+}
+
+.main-section-title {
+	flex-grow: 1;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border-bottom: 3px solid var(--dark-grey-bg-color);
+}
+
+.main-section-block {
+	margin: 15px 0 30px;
+}
+
+.main-section-university-name {
+	font-weight: 700;
+}
+
+pre {
+	font-family: monospace;
+	font-size: 17px;
+}
+
+/*   #endregion main   */
+
 /*   #region aside   */
 .aside {
 	width: 40%;
@@ -181,7 +222,7 @@ body {
 /*   #region footer   */
 .footer {
 	background-color: var(--dark-grey-bg-color);
-	padding: 20px;
+	padding: 5px;
 }
 
 .footer-container {
