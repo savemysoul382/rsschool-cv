@@ -108,9 +108,14 @@ body {
 .section-aside {
 	display: flex;
 	flex-direction: column;
+	margin: 0px 40px;
 }
 
-.section-aside .section-aside-title {
+.section-aside + .section-aside {
+	margin-top: 30px;
+}
+
+.title-contacts {
 	transform: translateY(-50%);
 }
 
@@ -118,13 +123,25 @@ body {
 	align-self: center;
 	padding: 5px 15px;
 	position: relative;
-
 	text-transform: uppercase;
 	letter-spacing: 2px;
+	width: 140px;
 	text-align: center;
 	background-color: var(--dark-grey-bg-color);
 	color: var(--white-color);
 }
+
+.contact-item {
+	display: flex;
+	align-items: center;
+	margin: 0px 10px 15px 10px;
+}
+
+.contact-item > i {
+	margin-right: 5px;
+	width: 24px;
+}
+
 /*   #endregion aside   */
 
 /*   #region footer   */
