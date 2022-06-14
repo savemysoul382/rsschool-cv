@@ -3,7 +3,7 @@
 	--accent-white-color: #d9dbdb;
 	--text-dark-color: #2b2d42;
 	--dark-grey-bg-color: #505051;
-	--second-green-color: #1b998b;
+	--second-green-color: #89b6a5;
 	/* --second-blue-color: #429ea6; */
 }
 
@@ -115,6 +115,10 @@ body {
 	margin-top: 30px;
 }
 
+.section-aside:last-child {
+	margin-bottom: 30px;
+}
+
 .title-contacts {
 	transform: translateY(-50%);
 }
@@ -138,9 +142,39 @@ body {
 }
 
 .contact-item > i {
-	margin-right: 5px;
+	margin-right: 8px;
 	width: 24px;
 }
+
+.contact-item-description {
+	margin-right: 5px;
+}
+
+.link {
+	text-decoration: none;
+	font-weight: 700;
+	color: var(--text-dark-color);
+	transition: color 0.3s;
+}
+
+.link:hover {
+	color: var(--dark-grey-bg-color);
+}
+
+/*   #region aside-skills   */
+
+.aside-list-skills,
+.aside-list-languages {
+	list-style: disc;
+	margin-left: 41px;
+	margin-top: 20px;
+}
+
+.aside-list-languages > li > p:first-child {
+	text-transform: uppercase;
+}
+
+/*   #endregion aside-skills   */
 
 /*   #endregion aside   */
 
